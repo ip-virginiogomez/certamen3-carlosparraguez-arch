@@ -4,6 +4,7 @@ ventas = [
     [20000, 10000, 12000],
 ]
 
+
 mejor_vendedor = None
 mayor_total = 0
 
